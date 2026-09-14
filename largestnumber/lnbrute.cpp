@@ -12,7 +12,7 @@ int main()
 {
     vector<int> arr1 = {2, 5, 1, 3, 0};
 
-    cout << sortArr(arr1) << " is the smallest element in an array" << endl;
+    cout << sortArr(arr1) << " is the largest element in an array" << endl;
 
     return 0;
 }
